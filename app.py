@@ -4,7 +4,7 @@ import torch
 from PIL import Image
 import numpy as np
 import torch.nn.functional as F
-from cnn import CNN  # Import your trained model
+from cnn import CNN  # Importing trained model
 
 # ---------------------
 # App Config
